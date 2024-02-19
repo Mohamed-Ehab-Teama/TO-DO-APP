@@ -1,4 +1,4 @@
-<?php
+<?php               // Main (Home) Page
 session_start();
 
 $conn = mysqli_connect("localhost", "root", "", "todoapp");
